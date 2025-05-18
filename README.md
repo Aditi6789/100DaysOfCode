@@ -32,7 +32,7 @@ Each day has its own folder containing
 
 Feel free to explore, learn, and provide feedback
 <img src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img> </t>
-<img src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img>
+<img height = 50px; src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img>
 
 <hr>
 
