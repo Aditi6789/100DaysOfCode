@@ -3,7 +3,7 @@
 here, I'll be solving a new problem every day, sharing my solution, and tracking my progress. This repository is a collection of my daily coding exercise, problem-solving approaches, and learnings.
 
 <img height = 50px; src = "https://github.com/user-attachments/assets/bb42fbc4-2b76-4ef5-8880-41c2500797d4"></img> <br>
-<img height = 50px; src = "https://github.com/user-attachments/assets/44ddbc3a-31b9-436e-9732-b09ae21c7a28"></img> <br>
+<img width = 50px; src = "https://github.com/user-attachments/assets/44ddbc3a-31b9-436e-9732-b09ae21c7a28"></img> <br>
 <img height = 50px; src = "https://github.com/user-attachments/assets/35f4b2fd-f067-4faf-8574-fd1bf331b04c"></img> <br>
 
 
