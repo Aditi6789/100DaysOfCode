@@ -13,9 +13,9 @@ Here, I'll be solving a new problem every day, sharing my solution, and tracking
 <h3>What is this series about?</h3>
 
 The 100 days of Pragramming Series is designed to :
-<ul> Enhance problem-solving skills.</ul>
-<ul>Strengthen understanding of programming fundamentals.</ul>
-<ul>Build consistency in coding every day.</ul>
+<ol> Enhance problem-solving skills.</ol>
+<ol>Strengthen understanding of programming fundamentals.</ol>
+<ol>Build consistency in coding every day.</ol>
 
 Each day focuses on a specific topic or problem, startng from basic concepts and gradually progressing to more advanced topic.
 <hr>
@@ -23,7 +23,7 @@ Each day focuses on a specific topic or problem, startng from basic concepts and
 Each day has its own folder containing
 
 <h3>How to Contribute </h3>
-<ol>Fork this repository.</ol> 
+<ol>1.Fork this repository.</ol> 
 <ol>2. Add your own solution to the problems.</ol>
 <ol>3. Submit a pull request to contribute your ideas and solutions</ol>
 
