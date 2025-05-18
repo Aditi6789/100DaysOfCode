@@ -13,7 +13,7 @@ Here, I'll be solving a new problem every day, sharing my solution, and tracking
 <h3>What is this series about?</h3>
 
 <ul>The 100 days of Pragramming Series is designed to :
-<li> Enhance problem-solving skills.</ol>
+<li>Enhance problem-solving skills.</ol>
 <li>Strengthen understanding of programming fundamentals.</ol>
 <li>Build consistency in coding every day.</ol>
 </ul>
@@ -21,7 +21,6 @@ Each day focuses on a specific topic or problem, startng from basic concepts and
 <hr>
 <h3>Structure of the Repository</h3>
 Each day has its own folder containing
-
 <ol><h3>How to Contribute </h3>
 <li>1.Fork this repository.</ol> 
 <li>2. Add your own solution to the problems.</ol>
@@ -32,6 +31,8 @@ Each day has its own folder containing
 <h3>Connect with Me </h3>
 
 Feel free to explore, learn, and provide feedback
+<img src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img> </t>
+<img src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img>
 
 <hr>
 
