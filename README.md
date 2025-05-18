@@ -10,7 +10,7 @@ Here, I'll be solving a new problem every day, sharing my solution, and tracking
 <img height = 50px; src="https://github.com/user-attachments/assets/7daa8856-ab29-45bd-8e12-dd3750bba386"></img>  <br>
 
 <hr>
-What is this series about?
+<h3>What is this series about?</h3>
 
 The 100 days of Pragramming Series is designed to :
 <ul> Enhance problem-solving skills.</ul>
@@ -19,14 +19,17 @@ The 100 days of Pragramming Series is designed to :
 
 Each day focuses on a specific topic or problem, startng from basic concepts and gradually progressing to more advanced topic.
 <hr>
-How to Contribute 
-1. Fork this repository.
-2. Add your own solution to the problems.
-3. Submit a pull request to contribute your ideas and solutions!
+<h3>Structure of the Repository</h3>
+Each day has its own folder containing
+
+<h3>How to Contribute </h3>
+<ol>Fork this repository.</ol> 
+<ol>2. Add your own solution to the problems.</ol>
+<ol>3. Submit a pull request to contribute your ideas and solutions</ol>
 
 <hr> 
 
-Connect with Me 
+<h3>Connect with Me </h3>
 
 Feel free to explore, learn, and provide feedback
 
