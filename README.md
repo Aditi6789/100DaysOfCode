@@ -41,7 +41,7 @@ Each day has its own folder containing:
 
 Feel free to explore, learn, and provide feedback
 <br><br>
-<a href="https://www.linkedin.com/in/aditijain1008?utm_source=share&utm_campaign=share_via*utm_content=profile&utm_medium=android_app"><img height = 60px;  src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img></a> </t></t>
+<a href="https://www.linkedin.com/in/aditijain1008?utm_source=share&utm_campaign=share_via*utm_content=profile&utm_medium=android_app"><img height = 70px;  src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img></a> </t></t>
 <a href="www.youtube.com/@codeWorld1008"><img height = 50px; width=50px; src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img></a></t></t>
 
 
