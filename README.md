@@ -13,9 +13,9 @@ Here, I'll be solving a new problem every day, sharing my solution, and tracking
 <h3>What is this series about?</h3>
 <ul>
 The 100 days of Pragramming Series is designed to :
-<li>Enhance problem-solving skills.</ol>
-<li>Strengthen understanding of programming fundamentals.</ol>
-<li>Build consistency in coding every day.</ol>
+    <li>Enhance problem-solving skills.</ol>
+    <li>Strengthen understanding of programming fundamentals.</ol>
+    <li>Build consistency in coding every day.</ol>
 </ul>
 
 Each day focuses on a specific topic or problem, startng from basic concepts and gradually progressing to more advanced topic.
@@ -44,7 +44,3 @@ Feel free to explore, learn, and provide feedback
 <a href="https://www.linkedin.com/in/aditijain1008?utm_source=share&utm_campaign=share_via*utm_content=profile&utm_medium=android_app"><img height = 50px;  src="https://github.com/user-attachments/assets/a8752061-216b-4c0a-a295-349b1451dcc9"></img></a> </t></t>
 <a href="www.youtube.com/@codeWorld1008"><img height = 50px; width=50px; src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img></a></t></t>
 
-
-<hr>
-
-<br>
