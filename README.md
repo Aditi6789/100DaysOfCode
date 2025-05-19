@@ -17,6 +17,7 @@ Here, I'll be solving a new problem every day, sharing my solution, and tracking
 <li>Strengthen understanding of programming fundamentals.</ol>
 <li>Build consistency in coding every day.</ol>
 </ul>
+
 Each day focuses on a specific topic or problem, startng from basic concepts and gradually progressing to more advanced topic.
 <hr>
 <h3>Structure of the Repository</h3>
