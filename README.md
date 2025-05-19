@@ -23,17 +23,17 @@ Each day focuses on a specific topic or problem, startng from basic concepts and
 <h3>Structure of the Repository</h3>
 Each day has its own folder containing
 <ol><h3>How to Contribute </h3>
-<li>Fork this repository.</ol> 
-<li>Add your own solution to the problems.</ol>
-<li> Submit a pull request to contribute your ideas and solutions</ol>
+<li>Fork this repository.</li> 
+<li>Add your own solution to the problems.</li>
+<li> Submit a pull request to contribute your ideas and solutions</li>
 </ol>
 <hr> 
 
 <h3>Connect with Me </h3>
 
 Feel free to explore, learn, and provide feedback
-<img src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img> </t>
-<img height = 50px; src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img>
+<img height = 50px;  src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img> </t>
+<img height = 50px; width=50px; src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img>
 
 <hr>
 
