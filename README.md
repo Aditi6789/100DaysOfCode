@@ -20,8 +20,16 @@ The 100 days of Pragramming Series is designed to :
 
 Each day focuses on a specific topic or problem, startng from basic concepts and gradually progressing to more advanced topic.
 <hr>
-<h3>Structure of the Repository</h3>
-Each day has its own folder containing
+<h3>Repository Structure</h3>
+Each day has its own folder containing:
+<li><b>Problem Description: </b>A file explaining the problem with the examples.</li>
+<li><b>Solution Code: </b>Code solution in different programming languages(C,C++,Java,Python,JavaScript).</li>
+<li><b>Bonus Challenges: </b>Extra tasks to make the problemm more interesting.</li>
+<li><b>Test Cases: </b>Sample test cases to verify the solution.</li>
+<li><b>README: </b>A file providing an overview of the probleand solution.</li>
+<li><b>Resource: </b>Additional resourcesor reference used to solve the problem. </li>
+<hr>
+
 <ol><h3>How to Contribute </h3>
 <li>Fork this repository.</li> 
 <li>Add your own solution to the problems.</li>
@@ -32,7 +40,7 @@ Each day has its own folder containing
 <h3>Connect with Me </h3>
 
 Feel free to explore, learn, and provide feedback
-<img height = 50px;  src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img> </t>
+<a></a><img height = 60px;  src="https://github.com/user-attachments/assets/0262555a-5d4b-49e5-8985-a4df72e335b6" ></img> </t>
 <img height = 50px; width=50px; src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img>
 
 <hr>
