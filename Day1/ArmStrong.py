@@ -1,4 +1,4 @@
-# function 1
+#function 1 to get the number of digit in the number for the power
 def get_digit_count(num):
     count = 0
     temp = num
@@ -6,14 +6,14 @@ def get_digit_count(num):
         count += 1
         temp //=  10
     return count
-
+#function 2 to get the power of the digit
 def power_of(digit,power):  
-    prod=1
+    prod=1 
     while power>0:
         prod *= digit
         power -= 1
     return prod
-
+#function 3 to check the number is ArmStrong or not
 def is_armstrong_number(num):
     temp=num
     total_sum = 0
