@@ -1,4 +1,4 @@
-# 30DaysOfCode
+# 100DaysOfCode
 Welcome to my 100 Days of code Challenge repository! :rocket: :rocket:
 <br>
 Here, I'll be solving a new problem every day, sharing my solution, and tracking my progress. This repository is a collection of my daily coding exercise, problem-solving approaches, and learnings.
