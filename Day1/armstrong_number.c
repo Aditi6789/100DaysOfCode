@@ -18,10 +18,10 @@ int get_power(int digit,int power){
 void check_armstrong_number(int num){
     int temp = num;
     int sum=0;
-    int power=getDigitCount(num);
+    int power=get_digit_count(num);
     while(num >0 ){
         int digit = num % 10;
-        sum += getPower(digit,power);
+        sum += get_power(digit,power);
         num /= 10;
     }
     if(temp==sum){
@@ -32,5 +32,8 @@ void check_armstrong_number(int num){
     }
 }
 int main(){
+int num;
+printf("Enter a number: ");
+scanf("%d",&num);
 check_armstrong_number(153);
 }
