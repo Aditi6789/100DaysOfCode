@@ -1,5 +1,5 @@
 #include<stdio.h>
-int getDigitCount(int num){
+int get_digit_count(int num){
     int count = 0;
     while(num>0){
         count++;
@@ -7,7 +7,7 @@ int getDigitCount(int num){
     }
     return count;
 }
-int getPower(int digit,int power){
+int get_power(int digit,int power){
     int prod=1;
     while(power>0){
         prod *=digit;
@@ -15,7 +15,7 @@ int getPower(int digit,int power){
     }
     return prod;
 }
-void getIsArmStrongNumber(int num){
+void check_armstrong_number(int num){
     int temp = num;
     int sum=0;
     int power=getDigitCount(num);
@@ -32,5 +32,5 @@ void getIsArmStrongNumber(int num){
     }
 }
 int main(){
-getIsArmStrongNumber(153);
+check_armstrong_number(153);
 }
