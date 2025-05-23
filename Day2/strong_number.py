@@ -1,18 +1,28 @@
-""" Write program to find the number is a Strong number or not by using python library """
-import math
-
-def get_is_strong_number(num):
+""" Program for the Strong Number"""
+def get_factorial(n):
     """
-    str(number)--the input number is converted to a string to allow iteration over its digits.
-    for digit in str(number)--this loop iterate over each character(digit) in the string repersentation of the number.
-    int(digit)-- each character(digit) is converted back to an integer to perform mathematical operation.
-    math.factorial(int(digit))--Factorial of each digit is calculated using math.factorial function from python's math library.
+    Calculates the factorial of a digits in a given number.
     """
-    return num == sum(math.factorial(int(digit)) for digit in str(num))
+    prod=1
+    while n>0:
+        prod *= n
+        n = n-1
+    return prod
 
-number = int(input("Enter the number: "))
-result=get_is_strong_number(number)
-if result:
-    print(number,"is a Strong Number.")
+def get_is_strong_number(n):
+    """Checks if a given number is an strong number.
+    """
+    temp=n
+    total_sum = 0
+    while temp>0:
+        digit = temp % 10
+        total_sum +=  get_factorial(digit)
+        temp //= 10
+    return num == total_sum
+
+num = int(input("Enter the number : "))
+ans = get_is_strong_number(num)
+if ans:
+    print(num,"is a Strong Number. ")
 else:
-    print(number,"is not a Strong Number.")
+    print(num,"is not a Strong Number.")
