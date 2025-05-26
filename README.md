@@ -2,11 +2,11 @@ Welcome to my 100-days-series repository! :rocket:
 <br>
 Here, I'll be solving a new problem every day, sharing my solution, and tracking my progress. This repository is a collection of my daily coding exercise, problem-solving approaches, and learnings.
 <br><br><br>
-<img height = 50px; src = "https://github.com/user-attachments/assets/bb42fbc4-2b76-4ef5-8880-41c2500797d4"></img> </t>
-<img height = 50px; src = "https://github.com/user-attachments/assets/44ddbc3a-31b9-436e-9732-b09ae21c7a28"></img> </t>
-<img height = 50px; src = "https://github.com/user-attachments/assets/35f4b2fd-f067-4faf-8574-fd1bf331b04c"></img> </t>
-<img height = 50px; src = "https://github.com/user-attachments/assets/5a050231-94fe-4072-a2ab-322a71b1b90d"></img> </t>
-<img height = 50px; src="https://github.com/user-attachments/assets/7daa8856-ab29-45bd-8e12-dd3750bba386"></img>  <br>
+<img height = 50px; src = "C:\Users\jvibh\Downloads\th (1).jpg"></img> </t>
+<img height = 50px; src = "C:\Users\jvibh\Downloads\th (2).jpg"></img> </t>
+<img height = 50px; src = "C:\Users\jvibh\Downloads\python.jpg"></img> </t>
+<img height = 50px; src="C:\Users\jvibh\Downloads\th.jpg"></img>  <br>
+<img height = 50px; src="C:\Users\jvibh\Downloads\javaImge.jpg"></img>  <br>
 
 <hr>
 <h3>What is this series about?</h3>
@@ -40,6 +40,6 @@ Each day has its own folder containing:
 
 Feel free to explore, learn, and provide feedback
 <br><br>
-<a href="https://www.linkedin.com/in/aditijain1008?utm_source=share&utm_campaign=share_via*utm_content=profile&utm_medium=android_app"><img height = 50px;  src="https://github.com/user-attachments/assets/a8752061-216b-4c0a-a295-349b1451dcc9"></img></a> </t></t>
-<a href="www.youtube.com/@codeWorld1008"><img height = 50px; width=50px; src="https://github.com/user-attachments/assets/f9a8f60d-44d9-44ea-9c54-457f03b0a09a" ></img></a></t></t>
+<a href="https://www.linkedin.com/in/aditi6789/"><img height = 50px;  src="C:\Users\jvibh\Downloads\th (4).jpg"></img></a> </t></t>
+<a href="www.youtube.com/@codeWorld1008"><img height = 50px; width=50px; src="C:\Users\jvibh\Downloads\th (3).jpg" ></img></a></t></t>
 
