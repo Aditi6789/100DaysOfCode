@@ -30,4 +30,5 @@ int main(){
     else{
         cout<<"The Factorial is : "<<ans<<endl;
     }
+    return 0;
 }
