@@ -22,5 +22,6 @@ int main(){
 
     int  count = countDigits(num);
     printf("The Number of digit in a number is : %d ",count);
+    return 0;
 }
 
