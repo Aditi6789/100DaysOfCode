@@ -25,5 +25,6 @@ int main(){
     scanf("%d",&num); 
     int ans = getReverseNumber(num);
     printf("Reverse number is : %d" , ans);
+    return 0;
 }
 
