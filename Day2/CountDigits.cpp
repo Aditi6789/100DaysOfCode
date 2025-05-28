@@ -25,6 +25,7 @@ int main(){
     cout<<"Enter the number: ";
     cin>>num;
     cout<<"The number of digit in a number is :"<<countDigits(num);
+    return 0;
 }
 
 
