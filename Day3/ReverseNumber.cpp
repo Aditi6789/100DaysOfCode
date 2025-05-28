@@ -25,5 +25,6 @@ int main(){
 
     int reversedNum  =  getReverseNumber(originalNum);
     cout<<"The reverse number of a given number is : "<<reversedNum;
+    return 0;
 }
 
