@@ -31,4 +31,5 @@ int main(){
         printf("\n Factorial is %d",res);
         printf("\n---------------------------------");
     }
+    return 0;
 }
